@@ -1,3 +1,11 @@
+###
+
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+###
+
 <h1 align="center">Hi 👋, I'm Pritam Suryawanshi</h1>
 <h3 align="center">🚀 Full Stack Developer | Open Source Contributor</h3>
 <div align="center">
