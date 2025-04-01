@@ -18,6 +18,8 @@
 ###
 <h3 align="left">👩‍💻  About Me</h3>
 
+- 🚀 Currently working on CRM Project (Comming Soon...)
+
 - 🌱 I’m currently learning **vueJS**
 
 - 💬 Ask me about **react and nodejs**
