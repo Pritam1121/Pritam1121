@@ -45,7 +45,7 @@
 
 
   <img 
-    align="right" 
+    align="left" 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=pritam1121&show_icons=true&locale=en&layout=compact&theme=dark&border_radius=5" 
     alt="pritam1121" 
     height="200" 
