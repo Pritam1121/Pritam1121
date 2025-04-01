@@ -22,7 +22,7 @@
 
 - 🌱 I’m currently learning **vueJS**
 
-- 💬 Ask me about **react and nodejs**
+- 💬 Ask me about **React, NodeJS, ExpressJS, MySQL and MongoDB **
 
 - 📫 How to reach me **pritamsuryawanshi1121@gmail.com**
 
