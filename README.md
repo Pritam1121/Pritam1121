@@ -9,16 +9,16 @@
 <h1 align="center">Hi 👋, I'm Pritam Suryawanshi</h1>
 <h3 align="center">🚀 Full Stack Developer | Open Source Contributor</h3>
 <div align="center">
-<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
-<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail logo" />
-<img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter logo" />
+<img href="https://in.linkedin.com/in/pritam-suryawanshi" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
+<img href="mailto:pritamsuryawanshi1121@gmail.com" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail logo" />
+<img href="" src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter logo" />
 <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E1306C&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram logo" />
 </div>
 
 ###
 <h3 align="left">👩‍💻  About Me</h3>
 
-- 🚀 Currently working on Leetlab Project (Comming Soon...</>📋)
+- 🚀 Currently working on Leetlab Project (Comming Soon.  ..</>📋)
 
 - 🌱 I’m currently learning **vueJS**
 
