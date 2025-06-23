@@ -9,22 +9,22 @@
 <h1 align="center">Hi 👋, I'm Pritam Suryawanshi</h1>
 <h3 align="center">🚀 Full Stack Developer | Open Source Contributor</h3>
 <div class="row" style="gap:10px;display:flex;text-align:center;justify-content: center;font-family:Arial" align="center">
-<a href="https://in.linkedin.com/in/pritam-suryawanshi" target="_blank" rel="noopener noreferrer">
+<!-- <a href="https://in.linkedin.com/in/pritam-suryawanshi" target="_blank" rel="noopener noreferrer">
 <h1 style="background-color:#0077B5;height:20px;width:120px;font-size:16px;text-align:center;border-radius:2px;border-style:none;padding:4px 0px;color:#fff;text-decoration: none;">LinkedIn</h1>
 </a>
 <a href="mailto:pritamsuryawanshi1121@gmail.com">
 <h1 style="background-color:#c5221f;height:20px;width:120px;font-size:16px;text-align:center;border-radius:2px;border-style:none;padding:4px 0px;color:#fff;text-decoration: none;">GMAIL</h1>
 </a>
 <h1 style="background-color:#C13584	;height:20px;width:120px;font-size:16px;text-align:center;border-radius:2px;border-style:none;padding:4px 0px">INSTAGRAM</h1>
-<h1 style="background-color:#808080;height:20px;width:120px;font-size:16px;text-align:center;border-radius:2px;border-style:none;padding:4px 0px">TWITTER</h1>
-<!-- <a href="https://in.linkedin.com/in/pritam-suryawanshi" target="_blank" rel="noopener noreferrer">
+<h1 style="background-color:#808080;height:20px;width:120px;font-size:16px;text-align:center;border-radius:2px;border-style:none;padding:4px 0px">TWITTER</h1> -->
+<a href="https://in.linkedin.com/in/pritam-suryawanshi" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
 </a>
 <a href="mailto:pritamsuryawanshi1121@gmail.com" target="_blank" rel="noopener noreferrer">
 <img  src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail logo" />
 </a>
 <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter logo" />
-<img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E1306C&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram logo" /> -->
+<img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E1306C&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram logo" />
 </div>
 
 ###
