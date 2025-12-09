@@ -52,27 +52,12 @@
 
 
 
-<h3 align="left">🔥My Stats :</h3>
+<h3 align="left">🔥My Stats</h3>
+<h5>.......</h5>
 
-<!-- <div align="left">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-</div> -->
 
-<div align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=pritam1121&show_icons=true&locale=en&theme=dark&border_radius=5" 
-    alt="pritam1121" 
-    height="230" 
-  />
-</div>
 
-<div align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=pritam1121&show_icons=true&locale=en&layout=compact&theme=dark&border_radius=5" 
-    alt="pritam1121" 
-    height="230" 
-  />
-</div>
+
 
 
 
